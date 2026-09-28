@@ -30,21 +30,21 @@
     <checkstyleFormatter>${project.basedir}/contrib/checkstyle.xml</checkstyleFormatter>
     <dep.commons-cli.version>1.4</dep.commons-cli.version>
     <dep.commons-codec.version>1.13</dep.commons-codec.version>
-    <dep.commons-collections.version>3.2.1</dep.commons-collections.version>
+    <dep.commons-collections.version>3.2.2</dep.commons-collections.version>
     <dep.commons-el.version>1.0</dep.commons-el.version>
     <dep.commons-exec.version>1.3</dep.commons-exec.version>
-    <dep.commons-fileupload.version>1.4</dep.commons-fileupload.version>
-    <dep.commons-io.version>2.4</dep.commons-io.version>
+    <dep.commons-fileupload.version>1.6.0</dep.commons-fileupload.version>
+    <dep.commons-io.version>2.14.0</dep.commons-io.version>
     <dep.commons-lang.version>2.6</dep.commons-lang.version>
     <dep.commons-logging.version>1.1.3</dep.commons-logging.version>
     <dep.commons-pool.version>1.6</dep.commons-pool.version>
     <dep.dropwizard.metrics.version>3.1.0</dep.dropwizard.metrics.version>
     <dep.guava.version>16.0</dep.guava.version>
     <dep.hamcrest-junit.version>2.0.0.0</dep.hamcrest-junit.version>
-    <dep.httpclient.version>4.5.1</dep.httpclient.version>
+    <dep.httpclient.version>4.5.13</dep.httpclient.version>
     <dep.httpcore.version>4.4.3</dep.httpcore.version>
     <dep.jackcess.version>2.1.2</dep.jackcess.version>
-    <dep.jackson.version>2.10.1</dep.jackson.version>
+    <dep.jackson.version>2.18.8</dep.jackson.version>
     <!-- jersey brings in 1.2; tika-parsers brings in 1.3.2; converge on latest -->
     <dep.javax.annotation-api.version>1.3.2</dep.javax.annotation-api.version>
     <dep.jcommander.version>1.58</dep.jcommander.version>
@@ -54,7 +54,7 @@
     <dep.jruby-complete.version>9.2.9.0</dep.jruby-complete.version>
     <dep.junit-jupiter.version>5.5.2</dep.junit-jupiter.version>
     <dep.junit-platform.version>1.5.2</dep.junit-platform.version>
-    <dep.logback.version>1.2.3</dep.logback.version>
+    <dep.logback.version>1.2.13</dep.logback.version>
     <dep.maven-surefire-plugin.version>3.0.0-M3</dep.maven-surefire-plugin.version>
     <dep.mockito-all.version>1.10.19</dep.mockito-all.version>
     <dep.oro.version>2.0.8</dep.oro.version>
@@ -63,8 +63,8 @@
     <dep.spullara.mustache.compiler.version>0.8.17</dep.spullara.mustache.compiler.version>
     <dep.spymemcached.version>2.11.4</dep.spymemcached.version>
     <dep.sun.mail.version>1.6.2</dep.sun.mail.version>
-    <dep.tika.version>1.22</dep.tika.version>
-    <dep.xmlbeans.version>2.6.0</dep.xmlbeans.version>
+    <dep.tika.version>3.2.2</dep.tika.version>
+    <dep.xmlbeans.version>3.0.0</dep.xmlbeans.version>
     <eclipseFormatterStyle>${project.basedir}/contrib/formatter.xml</eclipseFormatterStyle>
     <maven.compiler.showWarnings>true</maven.compiler.showWarnings>
     <maven.compiler.source>1.8</maven.compiler.source>
